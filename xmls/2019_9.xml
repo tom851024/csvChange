@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="big5"?>
+<Application>
+  <commOcuppation ModifyDate="2019/09/16">
+    <commOcuppationMainData Acccount="S05490026" StudentID="S05490026">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.86" Finished_Date="2019/09/16" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="5.00" Finished_Date="2019/09/16" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2019/09/16" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="5.00" Finished_Date="2019/09/16" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="5.00" Finished_Date="2019/09/16" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="5.00" Finished_Date="2019/09/16" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="5.00" Finished_Date="2019/09/16" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.75" Finished_Date="2019/09/16" />
+    </commOcuppationMainData>
+  </commOcuppation>
+</Application>

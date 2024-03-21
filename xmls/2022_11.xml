@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="big5"?>
+<Application>
+  <commOcuppation ModifyDate="2022/11/30">
+    <commOcuppationMainData Acccount="1001S06470134" StudentID="S06470134">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.33" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.71" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.67" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.17" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.43" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2022/11/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S07620256" StudentID="S07620256">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.29" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.43" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.25" Finished_Date="2022/11/28" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08221050" StudentID="S08221050">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.71" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.29" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.33" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.14" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.33" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.14" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2022/11/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08231048" StudentID="S08231048">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.86" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="5.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.67" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.50" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.86" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="5.00" Finished_Date="2022/11/28" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310253" StudentID="S08310253">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.14" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.29" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.83" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.67" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.57" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.63" Finished_Date="2022/11/28" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08420173" StudentID="S08420173">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.71" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.83" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2022/11/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08420357" StudentID="S08420357">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.86" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.86" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.14" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.67" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.29" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.63" Finished_Date="2022/11/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08420358" StudentID="S08420358">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.14" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.57" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.86" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.67" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.86" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2022/11/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08531003" StudentID="S08531003">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.43" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.86" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.67" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.71" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.83" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.67" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2022/11/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08531060" StudentID="S08531060">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.86" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.71" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.67" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.14" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.14" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.13" Finished_Date="2022/11/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08550261" StudentID="S08550261">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.86" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.71" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.67" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.83" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="5.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.00" Finished_Date="2022/11/28" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08610155" StudentID="S08610155">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.86" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.00" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.00" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.86" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2022/11/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08610157" StudentID="S08610157">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.43" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.43" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.50" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.86" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2022/11/28" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08810230" StudentID="S08810230">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.43" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.29" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.83" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="2.75" Finished_Date="2022/11/28" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08920037" StudentID="S08920037">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.14" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.29" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.83" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.86" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.86" Finished_Date="2022/11/28" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.63" Finished_Date="2022/11/28" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="S07330264" StudentID="S07330264">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.71" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.71" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.71" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="5.00" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.57" Finished_Date="2022/11/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="5.00" Finished_Date="2022/11/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="S08222050" StudentID="S08222050">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.57" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.14" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.17" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.00" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.50" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.43" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="5.00" Finished_Date="2022/11/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="S08522055" StudentID="S08522055">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.71" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.43" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.43" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.50" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.50" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.86" Finished_Date="2022/11/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.50" Finished_Date="2022/11/29" />
+    </commOcuppationMainData>
+  </commOcuppation>
+</Application>

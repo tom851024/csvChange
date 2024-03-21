@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="big5"?>
+<Application>
+  <commOcuppation ModifyDate="2023/05/30">
+    <commOcuppationMainData Acccount="1001F07710006" StudentID="F07710006">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.67" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.38" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S05120158" StudentID="S05120158">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.29" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="2.83" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.00" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.67" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.67" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="2.00" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.25" Finished_Date="2023/05/19" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S07310160" StudentID="S07310160">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S07340238" StudentID="S07340238">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.88" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S07410228" StudentID="S07410228">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.29" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.00" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.43" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.67" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.71" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="2.63" Finished_Date="2023/05/19" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S07710027" StudentID="S07710027">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.25" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08210006" StudentID="S08210006">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.14" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.86" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.33" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.71" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.50" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.50" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="5.00" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="5.00" Finished_Date="2023/05/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08210023" StudentID="S08210023">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.71" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.83" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.43" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.17" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="2.83" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2023/05/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08210039" StudentID="S08210039">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="2.71" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="2.57" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.33" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.00" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.33" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="2.00" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.86" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="2.50" Finished_Date="2023/05/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08210054" StudentID="S08210054">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.57" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.86" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.83" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.83" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.29" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.75" Finished_Date="2023/05/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08210056" StudentID="S08210056">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.43" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.86" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.86" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.25" Finished_Date="2023/05/19" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08210061" StudentID="S08210061">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.57" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.29" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.86" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.67" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.86" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2023/05/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08210065" StudentID="S08210065">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.43" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="2.83" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.86" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.67" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.71" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.25" Finished_Date="2023/05/29" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08221050" StudentID="S08221050">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.00" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.83" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.86" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.83" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.14" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.25" Finished_Date="2023/05/19" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08222049" StudentID="S08222049">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.14" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.43" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.33" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.29" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.67" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.50" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.86" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.88" Finished_Date="2023/05/17" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310107" StudentID="S08310107">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.71" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.33" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.57" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.67" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="2.83" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.43" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310113" StudentID="S08310113">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.43" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.33" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.14" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.67" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.71" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.13" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310145" StudentID="S08310145">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.14" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="5.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.67" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="5.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310148" StudentID="S08310148">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="2.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="1.86" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="2.17" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="2.14" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="1.83" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="2.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.71" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="2.75" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310154" StudentID="S08310154">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.67" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310245" StudentID="S08310245">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.14" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.71" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="5.00" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.25" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08310248" StudentID="S08310248">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.29" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="2.57" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.50" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.33" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.33" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.71" Finished_Date="2023/05/11" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2023/05/11" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08410263" StudentID="S08410263">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.43" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.67" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.43" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.50" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.50" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.25" Finished_Date="2023/05/17" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08490061" StudentID="S08490061">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.71" Finished_Date="2023/05/16" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2023/05/16" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.67" Finished_Date="2023/05/16" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.86" Finished_Date="2023/05/16" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2023/05/16" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2023/05/16" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.71" Finished_Date="2023/05/16" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.88" Finished_Date="2023/05/16" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08540080" StudentID="S08540080">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.71" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.17" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="2.86" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.00" Finished_Date="2023/05/17" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08550265" StudentID="S08550265">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="2.86" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="2.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="2.17" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="2.43" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="2.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="2.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="2.00" Finished_Date="2023/05/17" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="2.13" Finished_Date="2023/05/17" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08610125" StudentID="S08610125">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.00" Finished_Date="2023/05/10" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.86" Finished_Date="2023/05/10" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.83" Finished_Date="2023/05/10" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.29" Finished_Date="2023/05/10" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.33" Finished_Date="2023/05/10" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.17" Finished_Date="2023/05/10" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.57" Finished_Date="2023/05/10" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2023/05/10" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08610145" StudentID="S08610145">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.50" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="5.00" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710006" StudentID="S08710006">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.43" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.50" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.50" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710007" StudentID="S08710007">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="2.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="2.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="2.67" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="2.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.00" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710008" StudentID="S08710008">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710011" StudentID="S08710011">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.43" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.43" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.38" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710013" StudentID="S08710013">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.75" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710015" StudentID="S08710015">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="2.63" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710016" StudentID="S08710016">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.50" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.63" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710017" StudentID="S08710017">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.75" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710018" StudentID="S08710018">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="5.00" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710019" StudentID="S08710019">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.43" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="5.00" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710022" StudentID="S08710022">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="3.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="2.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="2.88" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710025" StudentID="S08710025">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.43" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.43" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="2.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.50" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710027" StudentID="S08710027">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.88" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710029" StudentID="S08710029">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.67" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.63" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710031" StudentID="S08710031">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="5.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.14" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.29" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.38" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710032" StudentID="S08710032">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.67" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.17" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.38" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710035" StudentID="S08710035">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="3.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="3.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.33" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="3.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.50" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="3.43" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.13" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08710601" StudentID="S08710601">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.57" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.86" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.50" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.83" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.71" Finished_Date="2023/05/30" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.75" Finished_Date="2023/05/30" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08740005" StudentID="S08740005">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2023/05/02" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.43" Finished_Date="2023/05/02" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.00" Finished_Date="2023/05/02" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.71" Finished_Date="2023/05/02" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.00" Finished_Date="2023/05/02" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.50" Finished_Date="2023/05/02" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.43" Finished_Date="2023/05/02" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.00" Finished_Date="2023/05/02" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="1001S08810218" StudentID="S08810218">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.14" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="3.67" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.86" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.17" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="3.33" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.71" Finished_Date="2023/05/19" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="3.00" Finished_Date="2023/05/19" />
+    </commOcuppationMainData>
+    <commOcuppationMainData Acccount="S035220651001" StudentID="S03522065">
+      <commOcuppationDetailData Topic_ID="11" Number_Score="4.29" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="12" Number_Score="4.14" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="13" Number_Score="4.33" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="14" Number_Score="4.29" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="15" Number_Score="4.50" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="16" Number_Score="4.33" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="17" Number_Score="4.14" Finished_Date="2023/05/29" />
+      <commOcuppationDetailData Topic_ID="18" Number_Score="4.13" Finished_Date="2023/05/29" />
+    </commOcuppationMainData>
+  </commOcuppation>
+</Application>

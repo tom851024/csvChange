@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 from openpyxl import Workbook
 import pandas as pd
 from datetime import datetime
+import os
 
 majorNumber = {'110': '中國文學系', '117': '中國文學系碩士在職專班', '120': '外國語文學系', '121': '外國語文學系碩士班英語教學組', '122': '外國語文學系碩士班英美文學組', '130': '歷史學系',
 '140': '華語文教學國際碩士學位學程', '150': '日本語言文化學系', '180': '宗教研究所', '190': '哲學系', '197': '哲學系碩士在職專班', '210': '應用物理學系', '211': '應用物理學系材料及奈米科技組',
@@ -18,6 +19,11 @@ majorNumber = {'110': '中國文學系', '117': '中國文學系碩士在職專�
 '680': '高齡健康與運動科學學士學位學程', '710': '美術學系', '717': '美術學系碩士在職專班', '720': '音樂學系', '730': '建築學系', '740': '工業設計學系', '747': '工業設計學系碩士在職專班',
 '750': '景觀學系', '757': '景觀學系碩士在職專班', '760': '表演藝術與創作碩士學位學程', '810': '法律學系', '910': '國際經營管理學位學程', '920': '永續科學與管理學士學位學程',
 '930': '國際學院不分系英語學士'} #科系索引
+
+columnTitle = ["學制", "系所", "學號", "診斷次數", "溝通表達第1次", "持續學習第1次", "人際互動第1次", "團隊合作第1次", "問題解決第1次", "創新第1次", "工作責任及紀律第1次", "資訊科技應用第1次", "第1次診斷完成時間",  #4 ~ 12
+"溝通表達第2次", "持續學習第2次", "人際互動第2次", "團隊合作第2次", "問題解決第2次", "創新第2次", "工作責任及紀律第2次", "資訊科技應用第2次", "第2次診斷完成時間", #13 ~ 21
+"溝通表達第3次", "持續學習第3次", "人際互動第3次", "團隊合作第3次", "問題解決第3次", "創新第3次", "工作責任及紀律第3次", "資訊科技應用第3次", "第3次診斷完成時間", #22 ~ 30
+"溝通表達第4次", "持續學習第4次", "人際互動第4次", "團隊合作第4次", "問題解決第4次", "創新第4次", "工作責任及紀律第4次", "資訊科技應用第4次", "第4次診斷完成時間"] #31 ~ 39
 
 insertData = []
 
@@ -43,22 +49,19 @@ def sortScore(dictData, topic_id, number_score, finish_date, stdId):
         dictData[stdId].append([topic_id, number_score, finish_date, (index_of_0+1)]) #排序後並將這次迴圈跑到的資料加入 dictData
         
         for index in range(0, len(sameData), 1):
-            # print(dictData[stdId][sameData[index]][3])
-            index_of_n = [pair[0] for pair in key_value_pairs].index(str(dictData[stdId][sameData[index]][3]))
+            index_of_n = [pair[0] for pair in key_value_pairs].index(dictData[stdId][sameData[0]][3])
             dictData[stdId][index][3] = index_of_n + 1
-            # print(index, dictData[stdId][index])
-            # print(dictData)
-
-        # print(dictData)
+     else:
+        dictData[stdId].append([topic_id, number_score, finish_date, 1])
 
      return dictData
 
 def getInsertData(stdId, stdData, dictData):
-    tmpData = [None] * 40
+    tmpData = [''] * 40
     #取學制
-    if stdId[0] == 'S':
+    if stdId[0] == 'S' or stdId[0] == 's':
         tmpData[0] = '學士'
-    elif stdId[0] == 'G':
+    elif stdId[0] == 'G' or stdId[0] == 'g':
         tmpData[0] = '碩士'
 
     #取系所
@@ -72,78 +75,128 @@ def getInsertData(stdId, stdData, dictData):
     
     for n in dictData[stdId]: # 將分數依據類型放到暫存陣列對應位置中
         if n[0] == '11':
-            tmpData[4] = n[1]
+            if n[3] == 1:
+                tmpData[4] = n[1]
+            elif n[3] == 2:
+                tmpData[13] = n[1]
+            elif n[3] == 3:
+                tmpData[22] = n[1]
+            elif n[3] == 4:
+                tmpData[31] = n[1]  
         elif n[0] == '12':
-            tmpData[5] = n[1]
+            if n[3] == 1:
+                tmpData[5] = n[1]
+            elif n[3] == 2:
+                tmpData[14] = n[1]
+            elif n[3] == 3:
+                tmpData[23] = n[1]
+            elif n[3] == 4:
+                tmpData[32] = n[1]
         elif n[0] == '13':
-            tmpData[6] = n[1]
+            if n[3] == 1:
+                tmpData[6] = n[1]
+            elif n[3] == 2:
+                tmpData[15] = n[1]
+            elif n[3] == 3:
+                tmpData[24] = n[1]
+            elif n[3] == 4:
+                tmpData[33] = n[1]
         elif n[0] == '14':
-            tmpData[7] = n[1]
+            if n[3] == 1:
+                tmpData[7] = n[1]
+            elif n[3] == 2:
+                tmpData[16] = n[1]
+            elif n[3] == 3:
+                tmpData[25] = n[1]
+            elif n[3] == 4:
+                tmpData[34] = n[1]    
         elif n[0] == '15':
-            tmpData[8] = n[1]
+            if n[3] == 1:
+                tmpData[8] = n[1]
+            elif n[3] == 2:
+                tmpData[17] = n[1]
+            elif n[3] == 3:
+                tmpData[26] = n[1]
+            elif n[3] == 4:
+                tmpData[35] = n[1]
         elif n[0] == '16':
-            tmpData[9] = n[1]
+            if n[3] == 1:
+                tmpData[9] = n[1]
+            elif n[3] == 2:
+                tmpData[18] = n[1]
+            elif n[3] == 3:
+                tmpData[27] = n[1]
+            elif n[3] == 4:
+                tmpData[36] = n[1]
         elif n[0] == '17':
-            tmpData[10] = n[1]
+            if n[3] == 1:
+                tmpData[10] = n[1]
+            elif n[3] == 2:
+                tmpData[19] = n[1]
+            elif n[3] == 3:
+                tmpData[28] = n[1]
+            elif n[3] == 4:
+                tmpData[37] = n[1]
         elif n[0] == '18':
-            tmpData[11] = n[1]
+            if n[3] == 1:
+                tmpData[11] = n[1]
+            elif n[3] == 2:
+                tmpData[20] = n[1]
+            elif n[3] == 3:
+                tmpData[29] = n[1]
+            elif n[3] == 4:
+                tmpData[38] = n[1]
 
-    tmpData[12] = dictData[stdId][0][2]
-    # if stdId in dictData:
-    #     tmpData = sortScore(tmpData, dictData)
+        if n[3] == 1: #放入診斷日期和診斷次數
+            tmpData[12] = n[2]
+        elif n[3] == 2:
+            tmpData[21] = n[2]
+            tmpData[3] = 2 if tmpData[3] < 2 else tmpData[3]
+        elif n[3] == 3:
+            tmpData[30] = n[2]
+            tmpData[3] = 3 if tmpData[3] < 3 else tmpData[3]
+        elif n[3] == 4:
+            tmpData[39] = n[2]
+            tmpData[3] = 4
+
     
     insertData.append(tmpData)
 
     return 0
 
 
-file_object = open("8.xml") #讀 xml
-ori_xml = file_object.read()
-file_object.close()
-pro_xml = ori_xml.replace("utf-8", "gb2313")
-# print(pro_xml)
-
-root = ET.fromstring(pro_xml)
+folder_path = 'xmls'
+file_names = os.listdir(folder_path)
 dictData = {}
 
-#測試資料
-dictData["S07190055"] = []
-dictData["S07190055"].append(["11", "5.87", "2023/11/05", "1"])
-dictData["S07190055"].append(["11", "5.87", "2024/10/15", "2"])
+for fileName in file_names:
+    file_path = os.path.join(folder_path, fileName)
+    file_object = open(file_path, 'r') #讀 xml
+    ori_xml = file_object.read()
+    file_object.close()
+    pro_xml = ori_xml.replace("utf-8", "gb2313")
+    root = ET.fromstring(pro_xml)
 
-for main_data in root.findall('.//commOcuppationMainData'):
-    student_id = main_data.get('StudentID') #取學號
-    if student_id in dictData: #判斷是否有二次以上的診斷
-        needSort = True
-        # print("True")
-    else:
-        needSort = False
-        dictData[student_id] = []
-        # print("False")
-    
-    # print(student_id)
-    
-    for detail_data in main_data.findall('.//commOcuppationDetailData'):
-        topic_id = detail_data.get('Topic_ID') #取診斷項目 ID
-        number_score = detail_data.get('Number_Score') #取診斷分數
-        finish_date = detail_data.get('Finished_Date') #取診斷結束日期
-        if needSort == True:
-            dictData = sortScore(dictData, topic_id, number_score, finish_date, student_id)
-            # print("--")
+    for main_data in root.findall('.//commOcuppationMainData'):
+        student_id = main_data.get('StudentID') #取學號
+        if student_id[:2] != "S0" and main_data.get('Acccount')[:2] == "S0": #有些資料學號是放在 Account 上面
+            student_id = main_data.get('Acccount')
+        if student_id in dictData: #判斷是否有二次以上的診斷
+            needSort = True
         else:
-            dictData[student_id].append([topic_id, number_score, finish_date, 1])
-        # print(dictData[student_id])
+            needSort = False
+            dictData[student_id] = []
+        
+        for detail_data in main_data.findall('.//commOcuppationDetailData'):
+            topic_id = detail_data.get('Topic_ID') #取診斷項目 ID
+            number_score = detail_data.get('Number_Score') #取診斷分數
+            finish_date = detail_data.get('Finished_Date') #取診斷結束日期
+            if needSort == True:
+                dictData = sortScore(dictData, topic_id, number_score, finish_date, student_id)
+            else:
+                dictData[student_id].append([topic_id, number_score, finish_date, 1])
 
-    #test
-    # print(student_id)
-    # if student_id == 'S07190055':
-    #     print(dictData['S07190055'][1][1])
 
-
-columnTitle = ["學制", "系所", "學號", "診斷次數", "溝通表達第1次", "持續學習第1次", "人際互動第1次", "團隊合作第1次", "問題解決第1次", "創新第1次", "工作責任及紀律第1次", "資訊科技應用第1次", "第1次診斷完成時間", 
-"溝通表達第2次", "持續學習第2次", "人際互動第2次", "團隊合作第2次", "問題解決第2次", "創新第2次", "工作責任及紀律第2次", "資訊科技應用第2次", "第2次診斷完成時間",
-"溝通表達第3次", "持續學習第3次", "人際互動第3次", "團隊合作第3次", "問題解決第3次", "創新第3次", "工作責任及紀律第3次", "資訊科技應用第3次", "第3次診斷完成時間",
-"溝通表達第4次", "持續學習第4次", "人際互動第4次", "團隊合作第4次", "問題解決第4次", "創新第4次", "工作責任及紀律第4次", "資訊科技應用第4次", "第4次診斷完成時間"]
 
 insertData.append(columnTitle)
 
@@ -151,5 +204,10 @@ for std_id, std_data in dictData.items():
     getInsertData(std_id, std_data, dictData)
 
 df = pd.DataFrame(insertData)
-# df.to_excel("score.xlsx", index=False, header=False)
+with pd.ExcelWriter('score.xlsx', engine='xlsxwriter') as writer:
+    df.to_excel(writer, sheet_name='共通職能-個人分數', index=False)
+    workbook  = writer.book
+    worksheet = writer.sheets['共通職能-個人分數']
+    # 设置 A 到 AN 列的宽度为20
+    worksheet.set_column('A:AN', 20)
 
